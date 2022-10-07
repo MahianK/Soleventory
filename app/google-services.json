@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778602446796",
+    "project_id": "soleventory",
+    "storage_bucket": "soleventory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778602446796:android:5e854a5081b45e1104e769",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778602446796-gmjljncu19801ghngves25r7g1bqsg3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmG9YJFa_ojBVE5XjEkwhP1BNKPGOeMWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778602446796-gmjljncu19801ghngves25r7g1bqsg3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
